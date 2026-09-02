@@ -1,0 +1,5 @@
+print("My name umutoni")
+print("I am a tech student")
+print(" I love poetry")
+print(" My shoe size isd 41")
+print("My favourite fruit is an apple")
