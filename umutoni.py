@@ -17,3 +17,7 @@ print("Subject 1:", subject1, "Grade:", grade1)
 print("Subject 2:", subject2, "Grade:", grade2)
 print("Subject 3:", subject3, "Grade:", grade3)
 print("Subject 4:", subject4, "Grade:", grade4)
+print("I have learnt multi line strings")
+#I'm so excited to learn python
+print("I'm a poet \n" + " I'm a model \n"  + "I'm a student")
+print("I love poetry\n" * 5 ) 
