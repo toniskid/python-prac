@@ -13,9 +13,11 @@ order = input()
 
 price =  8
 
-quanity = input("How many latte would you like?\n")
+quantity= input("How many latte would you like?\n")
 
-total = price * quantity
+total = price *int( quantity)
+
+print(total)
 
 print(f"Sounds good {name },we'll have that {order} ready for you in a moment.")
 
