@@ -1,3 +1,4 @@
+#Grade calculator with feedback
 def get_number_of_subjects():
     while True:
         raw = input("How many subjects do you want to enter? ")
