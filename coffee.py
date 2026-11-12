@@ -2,9 +2,19 @@
 print("Hello welcome to Umutoni coffee shop!!!!!!!!!")
 
 name = input("Whats your name? \n ")
+if  name == "Ben":
+    print("you're not welcomed")
+else:
+    print(f"Hello" +  name + ", thank you so much for coming in today!!! \n \n \n")
+    
+
+
+    
+    
 
 print(f"Hello  {name}, thank you so much for coming in today!!! \n \n \n"
       )
+
 menu = "Chai\n Uji\n Dawa\n Black coffee\n Capoccino\nLatte\n"
 
 print(f"{name} what would like to order from our menu today? Here is what we are serving. \n {menu}")
